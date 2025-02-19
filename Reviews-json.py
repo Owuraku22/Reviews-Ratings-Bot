@@ -1,18 +1,25 @@
 import json
 import random
+import os
 
-# Define the number of reviews to generate
-NUM_REVIEWS = 500
 
-def generate_review(user_id, product_id, branch_id):
-    """Generate a random review based on the given table structure."""
-    return {
-        "user_id": user_id if random.random() > 0.1 else None,  # 10% chance of null user_id
-        "branch_id": branch_id,
-        "product_id": product_id,
-        "rating": random.randint(1, 5),  # Ratings between 1 and 5
-        "comments": random.choice([
-          "Great product!",
+def generate_reviews_json(num_reviews=500, output_dir="home/african-god/Downloads", filename="reviews.json"):
+    """Generates review data and saves it to a JSON file.
+
+    Args:
+        num_reviews: The number of reviews to generate.
+        output_file: The name of the JSON file to save to.
+    """
+
+    reviews = []
+    for _ in range(num_reviews):
+        review = {
+            "user_id": None,  # Nullable user_id
+            "branch_id": random.randint(1, 1000),  # Replace with your actual branch ID range
+            "product_id": random.randint(1, 1000),  # Replace with your actual product ID range
+            "rating": random.randint(1, 5),  # Ratings from 1 to 5
+            "comments": random.choice([  # Example comments - add more!
+                "Great product!",
                 "Good value.",
                 "Excellent service.",
                 "I'm satisfied.",
@@ -103,16 +110,8 @@ def generate_review(user_id, product_id, branch_id):
                 "I'm so happy I decided to buy this product. It's exceeded all my expectations and I couldn't be happier with my purchase. I highly recommend it to anyone looking for a effective solution.",
                 "This product is perfect for [everyday use]. It's exactly what I needed and I'm so glad I found it. It's made a huge difference in my daily routine.",
                 "I'm so happy with the results I've gotten from using this product. It's helped me to improve my efficiency. I'm so grateful for its ease of use.",
-                "This product is a great investment",
-            None  # Some reviews will have no comments
-        ])
-    }
+                "This product is a great investment"
 
-# Generate review data
-reviews = [generate_review(user_id=i, product_id=random.randint(1, 300), branch_id=random.randint(1, 260)) for i in range(1, NUM_REVIEWS + 1)]
-
-# Save to JSON file
-with open("reviews.json", "w") as json_file:
-    json.dump(reviews, json_file, indent=4)
-
-print(f"✅ Successfully saved {NUM_REVIEWS} reviews to reviews.json")
+            ]),
+        }
+        reviews.append(review)
