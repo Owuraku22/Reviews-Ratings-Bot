@@ -5,3 +5,244 @@
 2025-02-18 12:38:45,021 - Error submitting review for Product ID: 1. Error: HTTPSConnectionPool(host='prod.shaqapp.io', port=443): Max retries exceeded with url: /v1/en/users/reviews/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x761b9a93e4e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
 2025-02-18 12:38:47,908 - Error submitting review for Product ID: 1. Error: HTTPSConnectionPool(host='prod.shaqapp.io', port=443): Max retries exceeded with url: /v1/en/users/reviews/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x761b9a93ebd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
 2025-02-18 12:38:55,878 - Error submitting review for Product ID: 1. Error: HTTPSConnectionPool(host='prod.shaqapp.io', port=443): Max retries exceeded with url: /v1/en/users/reviews/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x761b9a93e2a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-02-18 14:36:23,123 - Error submitting review for Product ID: 1. Error: HTTPSConnectionPool(host='prod.shaqapp.io', port=443): Max retries exceeded with url: /v1/en/users/reviews/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x72a2cfe49640>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-02-18 14:36:26,652 - Error submitting review for Product ID: 1. Error: HTTPSConnectionPool(host='prod.shaqapp.io', port=443): Max retries exceeded with url: /v1/en/users/reviews/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x72a2cfe4a330>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-02-18 14:36:30,340 - Error submitting review for Product ID: 1. Error: HTTPSConnectionPool(host='prod.shaqapp.io', port=443): Max retries exceeded with url: /v1/en/users/reviews/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x72a2cfe4a9c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-02-18 14:36:37,251 - Error submitting review for Product ID: 1. Error: HTTPSConnectionPool(host='prod.shaqapp.io', port=443): Max retries exceeded with url: /v1/en/users/reviews/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x72a2cfe4b0b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-02-18 14:36:42,606 - Error submitting review for Product ID: 1. Error: HTTPSConnectionPool(host='prod.shaqapp.io', port=443): Max retries exceeded with url: /v1/en/users/reviews/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x72a2cfe4a750>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-02-18 14:36:49,311 - Error submitting review for Product ID: 1. Error: HTTPSConnectionPool(host='prod.shaqapp.io', port=443): Max retries exceeded with url: /v1/en/users/reviews/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x72a2cfe4a090>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-02-18 14:36:53,444 - Error submitting review for Product ID: 1. Error: HTTPSConnectionPool(host='prod.shaqapp.io', port=443): Max retries exceeded with url: /v1/en/users/reviews/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x72a2cfe49d30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-02-18 14:36:58,528 - Error submitting review for Product ID: 1. Error: HTTPSConnectionPool(host='prod.shaqapp.io', port=443): Max retries exceeded with url: /v1/en/users/reviews/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x72a2cfe4ba10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-02-18 14:37:08,070 - Error submitting review for Product ID: 1. Error: HTTPSConnectionPool(host='prod.shaqapp.io', port=443): Max retries exceeded with url: /v1/en/users/reviews/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x72a2cfe802f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-02-18 14:37:12,464 - Error submitting review for Product ID: 1. Error: HTTPSConnectionPool(host='prod.shaqapp.io', port=443): Max retries exceeded with url: /v1/en/users/reviews/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x72a2cfe80b60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-02-19 11:37:51,348 - Failed to submit review for Product ID: 1. Status Code: 404
+2025-02-19 11:37:56,110 - Failed to submit review for Product ID: 1. Status Code: 404
+2025-02-19 11:38:02,179 - Failed to submit review for Product ID: 1. Status Code: 404
+2025-02-19 11:41:12,832 - Review submitted successfully for Product ID: 1
+2025-02-19 11:41:17,592 - Review submitted successfully for Product ID: 1
+2025-02-19 11:41:23,021 - Review submitted successfully for Product ID: 1
+2025-02-19 11:41:27,460 - Review submitted successfully for Product ID: 1
+2025-02-19 11:41:30,459 - Review submitted successfully for Product ID: 1
+2025-02-19 11:41:38,988 - Review submitted successfully for Product ID: 1
+2025-02-19 11:41:45,584 - Review submitted successfully for Product ID: 1
+2025-02-19 11:41:48,299 - Review submitted successfully for Product ID: 1
+2025-02-19 11:41:50,979 - Review submitted successfully for Product ID: 1
+2025-02-19 11:41:57,711 - Review submitted successfully for Product ID: 1
+2025-02-19 11:42:02,351 - Review submitted successfully for Product ID: 1
+2025-02-19 11:42:09,799 - Review submitted successfully for Product ID: 1
+2025-02-19 11:42:12,605 - Review submitted successfully for Product ID: 1
+2025-02-19 11:42:14,948 - Review submitted successfully for Product ID: 1
+2025-02-19 11:42:17,373 - Review submitted successfully for Product ID: 1
+2025-02-19 11:42:24,353 - Review submitted successfully for Product ID: 1
+2025-02-19 11:42:31,610 - Review submitted successfully for Product ID: 1
+2025-02-19 11:42:36,633 - Review submitted successfully for Product ID: 1
+2025-02-19 11:42:43,817 - Review submitted successfully for Product ID: 1
+2025-02-19 11:42:45,495 - Review submitted successfully for Product ID: 1
+2025-02-19 11:42:53,167 - Review submitted successfully for Product ID: 1
+2025-02-19 11:43:00,416 - Review submitted successfully for Product ID: 1
+2025-02-19 11:43:09,445 - Review submitted successfully for Product ID: 1
+2025-02-19 11:43:12,006 - Review submitted successfully for Product ID: 1
+2025-02-19 11:43:17,748 - Review submitted successfully for Product ID: 1
+2025-02-19 11:43:20,957 - Review submitted successfully for Product ID: 1
+2025-02-19 11:43:22,348 - Review submitted successfully for Product ID: 1
+2025-02-19 11:43:25,777 - Review submitted successfully for Product ID: 1
+2025-02-19 11:43:34,104 - Review submitted successfully for Product ID: 1
+2025-02-19 11:43:43,685 - Review submitted successfully for Product ID: 1
+2025-02-19 11:43:51,687 - Review submitted successfully for Product ID: 1
+2025-02-19 11:43:55,762 - Review submitted successfully for Product ID: 1
+2025-02-19 11:44:05,444 - Review submitted successfully for Product ID: 1
+2025-02-19 11:44:07,589 - Review submitted successfully for Product ID: 1
+2025-02-19 11:44:16,969 - Review submitted successfully for Product ID: 1
+2025-02-19 11:44:20,495 - Review submitted successfully for Product ID: 1
+2025-02-19 11:44:24,330 - Review submitted successfully for Product ID: 1
+2025-02-19 11:44:27,708 - Review submitted successfully for Product ID: 1
+2025-02-19 11:44:30,986 - Review submitted successfully for Product ID: 1
+2025-02-19 11:44:32,520 - Review submitted successfully for Product ID: 1
+2025-02-19 11:44:35,692 - Review submitted successfully for Product ID: 1
+2025-02-19 11:44:38,346 - Review submitted successfully for Product ID: 1
+2025-02-19 11:44:40,529 - Review submitted successfully for Product ID: 1
+2025-02-19 11:44:45,759 - Review submitted successfully for Product ID: 1
+2025-02-19 11:44:47,655 - Review submitted successfully for Product ID: 1
+2025-02-19 11:44:49,744 - Review submitted successfully for Product ID: 1
+2025-02-19 11:44:54,546 - Review submitted successfully for Product ID: 1
+2025-02-19 11:45:02,236 - Review submitted successfully for Product ID: 1
+2025-02-19 11:45:04,689 - Review submitted successfully for Product ID: 1
+2025-02-19 11:45:14,626 - Review submitted successfully for Product ID: 1
+2025-02-19 11:45:21,654 - Review submitted successfully for Product ID: 1
+2025-02-19 11:45:25,450 - Review submitted successfully for Product ID: 1
+2025-02-19 11:45:30,948 - Review submitted successfully for Product ID: 1
+2025-02-19 11:45:37,288 - Review submitted successfully for Product ID: 1
+2025-02-19 11:45:39,251 - Review submitted successfully for Product ID: 1
+2025-02-19 11:45:47,300 - Review submitted successfully for Product ID: 1
+2025-02-19 11:45:51,568 - Review submitted successfully for Product ID: 1
+2025-02-19 11:45:57,892 - Review submitted successfully for Product ID: 1
+2025-02-19 11:46:00,688 - Review submitted successfully for Product ID: 1
+2025-02-19 11:46:05,713 - Review submitted successfully for Product ID: 1
+2025-02-19 11:46:10,294 - Review submitted successfully for Product ID: 1
+2025-02-19 11:46:20,376 - Review submitted successfully for Product ID: 1
+2025-02-19 11:46:23,974 - Review submitted successfully for Product ID: 1
+2025-02-19 11:46:33,884 - Review submitted successfully for Product ID: 1
+2025-02-19 11:46:37,281 - Review submitted successfully for Product ID: 1
+2025-02-19 11:46:44,793 - Review submitted successfully for Product ID: 1
+2025-02-19 11:46:49,276 - Review submitted successfully for Product ID: 1
+2025-02-19 11:46:55,157 - Review submitted successfully for Product ID: 1
+2025-02-19 11:47:00,487 - Review submitted successfully for Product ID: 1
+2025-02-19 11:47:06,043 - Review submitted successfully for Product ID: 1
+2025-02-19 11:47:08,770 - Review submitted successfully for Product ID: 1
+2025-02-19 11:47:11,930 - Review submitted successfully for Product ID: 1
+2025-02-19 11:47:14,267 - Review submitted successfully for Product ID: 1
+2025-02-19 11:47:26,634 - Review submitted successfully for Product ID: 1
+2025-02-19 11:47:36,554 - Review submitted successfully for Product ID: 1
+2025-02-19 11:47:46,163 - Review submitted successfully for Product ID: 1
+2025-02-19 11:47:47,696 - Review submitted successfully for Product ID: 1
+2025-02-19 11:47:53,419 - Review submitted successfully for Product ID: 1
+2025-02-19 11:48:01,154 - Review submitted successfully for Product ID: 1
+2025-02-19 11:48:03,720 - Review submitted successfully for Product ID: 1
+2025-02-19 11:48:06,447 - Review submitted successfully for Product ID: 1
+2025-02-19 11:48:12,329 - Review submitted successfully for Product ID: 1
+2025-02-19 11:48:21,892 - Review submitted successfully for Product ID: 1
+2025-02-19 11:48:26,981 - Review submitted successfully for Product ID: 1
+2025-02-19 11:48:35,575 - Review submitted successfully for Product ID: 1
+2025-02-19 11:48:43,951 - Review submitted successfully for Product ID: 1
+2025-02-19 11:48:48,111 - Review submitted successfully for Product ID: 1
+2025-02-19 11:48:51,340 - Review submitted successfully for Product ID: 1
+2025-02-19 11:49:01,220 - Review submitted successfully for Product ID: 1
+2025-02-19 11:49:08,495 - Review submitted successfully for Product ID: 1
+2025-02-19 11:49:10,178 - Review submitted successfully for Product ID: 1
+2025-02-19 11:49:11,797 - Review submitted successfully for Product ID: 1
+2025-02-19 11:49:18,582 - Review submitted successfully for Product ID: 1
+2025-02-19 11:49:23,467 - Review submitted successfully for Product ID: 1
+2025-02-19 11:49:32,880 - Review submitted successfully for Product ID: 1
+2025-02-19 11:49:35,103 - Review submitted successfully for Product ID: 1
+2025-02-19 11:49:43,830 - Review submitted successfully for Product ID: 1
+2025-02-19 11:49:47,472 - Review submitted successfully for Product ID: 1
+2025-02-19 11:49:51,146 - Review submitted successfully for Product ID: 1
+2025-02-19 11:49:56,739 - Review submitted successfully for Product ID: 1
+2025-02-19 11:49:59,787 - Review submitted successfully for Product ID: 1
+2025-02-19 11:50:07,583 - Review submitted successfully for Product ID: 1
+2025-02-19 11:50:14,461 - Review submitted successfully for Product ID: 1
+2025-02-19 11:50:17,705 - Review submitted successfully for Product ID: 1
+2025-02-19 11:50:27,560 - Review submitted successfully for Product ID: 1
+2025-02-19 11:50:29,084 - Review submitted successfully for Product ID: 1
+2025-02-19 11:50:32,215 - Review submitted successfully for Product ID: 1
+2025-02-19 11:50:39,127 - Review submitted successfully for Product ID: 1
+2025-02-19 11:50:44,741 - Review submitted successfully for Product ID: 1
+2025-02-19 11:50:47,126 - Review submitted successfully for Product ID: 1
+2025-02-19 11:50:50,774 - Review submitted successfully for Product ID: 1
+2025-02-19 11:50:52,237 - Review submitted successfully for Product ID: 1
+2025-02-19 11:50:58,284 - Review submitted successfully for Product ID: 1
+2025-02-19 11:51:01,628 - Review submitted successfully for Product ID: 1
+2025-02-19 11:51:07,525 - Review submitted successfully for Product ID: 1
+2025-02-19 11:51:13,539 - Review submitted successfully for Product ID: 1
+2025-02-19 11:51:22,493 - Review submitted successfully for Product ID: 1
+2025-02-19 11:51:29,247 - Review submitted successfully for Product ID: 1
+2025-02-19 11:51:32,100 - Review submitted successfully for Product ID: 1
+2025-02-19 11:51:35,362 - Review submitted successfully for Product ID: 1
+2025-02-19 11:51:40,584 - Review submitted successfully for Product ID: 1
+2025-02-19 11:51:46,587 - Review submitted successfully for Product ID: 1
+2025-02-19 11:51:54,495 - Review submitted successfully for Product ID: 1
+2025-02-19 11:51:57,575 - Review submitted successfully for Product ID: 1
+2025-02-19 11:52:00,132 - Review submitted successfully for Product ID: 1
+2025-02-19 11:52:06,187 - Review submitted successfully for Product ID: 1
+2025-02-19 11:52:07,988 - Review submitted successfully for Product ID: 1
+2025-02-19 11:52:12,828 - Review submitted successfully for Product ID: 1
+2025-02-19 11:52:19,431 - Review submitted successfully for Product ID: 1
+2025-02-19 11:52:21,199 - Review submitted successfully for Product ID: 1
+2025-02-19 11:52:24,683 - Review submitted successfully for Product ID: 1
+2025-02-19 11:52:30,429 - Review submitted successfully for Product ID: 1
+2025-02-19 11:52:34,504 - Review submitted successfully for Product ID: 1
+2025-02-19 11:52:40,229 - Review submitted successfully for Product ID: 1
+2025-02-19 11:52:48,390 - Review submitted successfully for Product ID: 1
+2025-02-19 11:52:49,858 - Review submitted successfully for Product ID: 1
+2025-02-19 11:52:52,493 - Review submitted successfully for Product ID: 1
+2025-02-19 11:53:02,618 - Review submitted successfully for Product ID: 1
+2025-02-19 11:53:11,102 - Review submitted successfully for Product ID: 1
+2025-02-19 11:53:20,788 - Review submitted successfully for Product ID: 1
+2025-02-19 11:53:27,722 - Review submitted successfully for Product ID: 1
+2025-02-19 11:53:37,763 - Review submitted successfully for Product ID: 1
+2025-02-19 11:53:44,471 - Review submitted successfully for Product ID: 1
+2025-02-19 11:53:49,310 - Review submitted successfully for Product ID: 1
+2025-02-19 11:53:59,069 - Review submitted successfully for Product ID: 1
+2025-02-19 11:54:03,835 - Review submitted successfully for Product ID: 1
+2025-02-19 11:54:06,203 - Review submitted successfully for Product ID: 1
+2025-02-19 11:54:16,281 - Review submitted successfully for Product ID: 1
+2025-02-19 11:54:21,314 - Review submitted successfully for Product ID: 1
+2025-02-19 11:54:27,672 - Review submitted successfully for Product ID: 1
+2025-02-19 11:54:37,973 - Review submitted successfully for Product ID: 1
+2025-02-19 11:54:41,256 - Review submitted successfully for Product ID: 1
+2025-02-19 11:54:51,694 - Review submitted successfully for Product ID: 1
+2025-02-19 11:54:59,113 - Review submitted successfully for Product ID: 1
+2025-02-19 11:55:05,216 - Review submitted successfully for Product ID: 1
+2025-02-19 11:55:13,305 - Review submitted successfully for Product ID: 1
+2025-02-19 11:55:18,460 - Review submitted successfully for Product ID: 1
+2025-02-19 11:55:24,949 - Review submitted successfully for Product ID: 1
+2025-02-19 11:55:34,586 - Review submitted successfully for Product ID: 1
+2025-02-19 11:55:42,133 - Review submitted successfully for Product ID: 1
+2025-02-19 11:55:51,693 - Review submitted successfully for Product ID: 1
+2025-02-19 11:55:59,413 - Review submitted successfully for Product ID: 1
+2025-02-19 11:56:07,789 - Review submitted successfully for Product ID: 1
+2025-02-19 11:56:12,881 - Review submitted successfully for Product ID: 1
+2025-02-19 11:56:17,240 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:56:27,166 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:56:28,643 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:56:34,861 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:56:42,981 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:56:49,225 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:56:56,933 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:57:00,529 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:57:03,812 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:57:11,504 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:57:19,558 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:57:21,284 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:57:30,621 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:57:36,984 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:57:39,811 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:57:43,867 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:57:46,574 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:57:48,239 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:57:55,066 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:57:56,481 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:58:04,025 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:58:07,592 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:58:16,929 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:58:21,248 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:58:28,302 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:58:37,236 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:58:44,989 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:58:48,475 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:58:52,204 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:58:55,449 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:58:56,672 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:59:06,508 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:59:11,433 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:59:16,120 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:59:19,572 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:59:27,156 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:59:33,062 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:59:37,972 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 11:59:46,098 - Failed to submit review for Product ID: 1. Status Code: 401
+2025-02-19 14:33:15,176 - Failed to submit review for Product ID: 48. Status Code: 401
+2025-02-19 14:38:49,844 - INFO - Review submitted successfully for Product ID: 48
+2025-02-19 14:38:59,559 - INFO - Review submitted successfully for Product ID: 49
+2025-02-19 14:39:08,922 - INFO - Review submitted successfully for Product ID: 50
+2025-02-19 14:39:17,268 - INFO - Memory usage: 29.44 MB
+2025-02-19 14:39:17,560 - INFO - Review submitted successfully for Product ID: 51
+2025-02-19 14:39:21,564 - INFO - Review submitted successfully for Product ID: 52
+2025-02-19 14:40:17,706 - INFO - Review submitted successfully for Product ID: 48
+2025-02-19 14:40:24,593 - INFO - Review submitted successfully for Product ID: 49
+2025-02-19 14:40:26,054 - INFO - Review submitted successfully for Product ID: 50
+2025-02-19 14:40:29,298 - INFO - Memory usage: 29.16 MB
+2025-02-19 14:40:29,737 - INFO - Review submitted successfully for Product ID: 51
+2025-02-19 14:40:32,922 - INFO - Review submitted successfully for Product ID: 52
+2025-02-19 14:53:21,068 - ERROR - Error submitting review for Product ID: 48. Error: 422 Client Error: Unprocessable Content for url: http://prod.shaqapp.io/v1/en/users/reviews/
+2025-02-19 14:53:27,427 - ERROR - Error submitting review for Product ID: 49. Error: 422 Client Error: Unprocessable Content for url: http://prod.shaqapp.io/v1/en/users/reviews/
+2025-02-19 14:53:32,736 - ERROR - Error submitting review for Product ID: 50. Error: 422 Client Error: Unprocessable Content for url: http://prod.shaqapp.io/v1/en/users/reviews/
+2025-02-19 14:53:42,024 - INFO - Memory usage: 29.16 MB
+2025-02-19 14:53:42,216 - ERROR - Error submitting review for Product ID: 51. Error: 422 Client Error: Unprocessable Content for url: http://prod.shaqapp.io/v1/en/users/reviews/
+2025-02-19 14:53:44,515 - ERROR - Error submitting review for Product ID: 52. Error: 422 Client Error: Unprocessable Content for url: http://prod.shaqapp.io/v1/en/users/reviews/
+2025-02-19 14:57:27,372 - INFO - Review submitted successfully for Product ID: 48
+2025-02-19 14:57:31,089 - INFO - Review submitted successfully for Product ID: 49
+2025-02-19 14:57:33,467 - INFO - Review submitted successfully for Product ID: 50
+2025-02-19 14:57:39,243 - INFO - Memory usage: 28.75 MB
+2025-02-19 14:57:39,350 - INFO - Review submitted successfully for Product ID: 51
+2025-02-19 14:57:44,816 - INFO - Review submitted successfully for Product ID: 52
